@@ -1,0 +1,16 @@
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\bin\Debug\net5.0\ArRaY.exe
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\bin\Debug\net5.0\ArRaY.deps.json
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\bin\Debug\net5.0\ArRaY.runtimeconfig.json
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\bin\Debug\net5.0\ArRaY.runtimeconfig.dev.json
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\bin\Debug\net5.0\ArRaY.dll
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\bin\Debug\net5.0\ArRaY.pdb
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\obj\Debug\net5.0\ArRaY.csproj.AssemblyReference.cache
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\obj\Debug\net5.0\ArRaY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\obj\Debug\net5.0\ArRaY.AssemblyInfoInputs.cache
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\obj\Debug\net5.0\ArRaY.AssemblyInfo.cs
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\obj\Debug\net5.0\ArRaY.csproj.CoreCompileInputs.cache
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\obj\Debug\net5.0\ArRaY.dll
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\obj\Debug\net5.0\refint\ArRaY.dll
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\obj\Debug\net5.0\ArRaY.pdb
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\obj\Debug\net5.0\ArRaY.genruntimeconfig.cache
+C:\Users\PRINCE\OneDrive\Desktop\ArRaY\obj\Debug\net5.0\ref\ArRaY.dll
