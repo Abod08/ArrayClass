@@ -56,30 +56,30 @@ namespace ArRaY
             //         System.Console.WriteLine("{0}",c);
             //    }
 
-            // int a = 1, b = 1, c = 0, d = 0;
-            // Console.WriteLine("Enter the length of the array: ");
-            // int sum = int.Parse(Console.ReadLine());
-            // int[] num = new int[sum];
+            int a = 1, b = 1, c = 0, d = 0;
+            Console.WriteLine("Enter the length of the array: ");
+            int sum = int.Parse(Console.ReadLine());
+            int[] num = new int[sum];
 
-            // for (int i = 0; i < num.Length; i++)
-            // {
-            //     System.Console.WriteLine("Enter the numbers: ");
-            //     num[i] = int.Parse(Console.ReadLine());
-            // }
-            // for (int i = 0; i < num.Length - 1; i++)
-            // {
-            //     if (num[i] + 1 == num[i + 1])
-            //     {
-            //         a++;
-            //         if (a > b)
-            //         {
-            //             b = a;
-            //             d = i + 1;
-            //             c = d - b + 1;
-            //         }
-            //         else a = 1;
-            //     }
-            // }
+            for (int i = 0; i < num.Length; i++)
+            {
+                System.Console.WriteLine("Enter the numbers: ");
+                num[i] = int.Parse(Console.ReadLine());
+            }
+            for (int i = 0; i < num.Length - 1; i++)
+            {
+                if (num[i] + 1 == num[i + 1])
+                {
+                    a++;
+                    if (a > b)
+                    {
+                        b = a;
+                        d = i + 1;
+                        c = d - b + 1;
+                    }
+                    else a = 1;
+                }
+            }
             // for (int i = c; i < b + c; i++)
             // {
             //     Console.Write("{0}, ", num[i]);
