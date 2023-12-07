@@ -80,6 +80,19 @@ namespace ArRaY
                     else a = 1;
                 }
             }
+            int asd = 34;
+            int res = 98;
+            int de = 0;
+            if (asd > res)
+            {
+                de = asd+res;
+                System.Console.WriteLine(de);
+            }
+            else
+            {
+                de = res - asd;
+                System.Console.WriteLine(de);
+            }
             // for (int i = c; i < b + c; i++)
             // {
             //     Console.Write("{0}, ", num[i]);
